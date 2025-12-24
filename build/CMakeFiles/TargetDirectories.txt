@@ -1,0 +1,3 @@
+/home/snowk/Personal/passwdcheck/build/CMakeFiles/passwdcheck.dir
+/home/snowk/Personal/passwdcheck/build/CMakeFiles/edit_cache.dir
+/home/snowk/Personal/passwdcheck/build/CMakeFiles/rebuild_cache.dir
